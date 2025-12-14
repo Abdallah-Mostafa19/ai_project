@@ -106,7 +106,7 @@ Python
 
 Tkinter (Graphical User Interface)
 
-Git & GitHub (Version Control)
+ GitHub 
 
 9. Team Members
 
